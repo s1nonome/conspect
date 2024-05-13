@@ -99,4 +99,4 @@ _Пример:_
 
 
 ## <a name="progress">Прогресс</a>
-[![roadmap.sh](https://roadmap.sh/card/wide/66427554893a539abf93bb3d?variant=dark&roadmaps=qa)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/66427554893a539abf93bb3d?variant=dark)](https://roadmap.sh)
