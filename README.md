@@ -3,6 +3,7 @@ qa roadmap
 
 ### Содержание
 - [DAY 1](./days/DAY1.md)
+- [DAY 2](./days/DAY2.md)
 - [Прогресс](./README.md#progress)
 
 <br><br><br>
